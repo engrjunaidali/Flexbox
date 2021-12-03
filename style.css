@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border: 1px red solid;
+}
+
+.box-1{
+    border: 1px #000 solid;
+    height: 200px; width: 400px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.box-2{
+    border: 1px #000 solid;
+    height: 200px; width: 400px;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+.box-3{
+    border: 1px #000 solid;
+    height: 200px; width: 400px;
+    padding: 20px;
+    margin: 20px;
+    order: ;
+}
